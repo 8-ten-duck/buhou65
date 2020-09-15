@@ -1,0 +1,7 @@
+import core
+
+public function say name & age {collection args}
+    write line "name: ", args[1]
+    write line "age: ", args[2]
+    say hello
+end

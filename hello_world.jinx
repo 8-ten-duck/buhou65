@@ -1,0 +1,3 @@
+import core 
+
+write line "Hello, world!"
